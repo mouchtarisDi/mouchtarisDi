@@ -36,8 +36,6 @@ Currently expanding my portfolio and preparing for **internship / Erasmus+ oppor
 🐍 **Python**  
 🟨 **JavaScript**  
 ☕ **Java**  
-🔵 **C**  
-🔷 **C++**
 
 ---
 
