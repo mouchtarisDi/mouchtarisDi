@@ -69,11 +69,11 @@ Currently expanding my portfolio and preparing for **internship / Erasmus+ oppor
 
 ## 🚀 Selected Project
 
-### 🎯 [Student Center Management Application](https://student-center-app.onrender.com)
+### 🎯 [Student Center Management Application](https://student-center-app-1.onrender.com)
 
 🔐 Demo Access (read-only)  
 Username: `demo`  
-Password: `demo123`
+Password: `Demo123`
 
 A real-world web application designed for managing a student/therapy center.
 
